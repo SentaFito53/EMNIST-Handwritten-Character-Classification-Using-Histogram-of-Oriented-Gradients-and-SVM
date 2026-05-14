@@ -24,7 +24,7 @@ This confusion matrix shows the classification performance on the test and train
 
 ## Classification Demo
 
-Below is a demonstration of the model classifying 10 random samples from the test set:
+Below is a demonstration of the model classifying 12 random samples from the test set:
 
 ![-](output/demo.png)
 

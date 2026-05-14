@@ -3,11 +3,11 @@ This repository demonstrates a machine learning pipeline that uses HOG (Histogra
 ---
 
 
-## 📚 Dataset
+## Dataset
 
 The dataset used in this project is from:  
 
-👉 [EMNIST (Extended MNIST)](https://www.kaggle.com/datasets/crawford/emnist/data)
+[EMNIST (Extended MNIST)](https://www.kaggle.com/datasets/crawford/emnist/data)
 
 Specifically, it uses the **`emnist-letters`** subset, which contains grayscale images of handwritten English letters (A–Z).
 
@@ -15,14 +15,14 @@ For this demonstration, a total of **2,600 samples** are used — with **100 sam
 
 ---
 
-## 🧩 Confusion Matrix
+## Confusion Matrix
 This confusion matrix shows the classification performance on the test and train set:
 
 ![-](output/cm_train.png)
 ![-](output/cm_test.png)
 ---
 
-## 🧪 Classification Demo
+## Classification Demo
 
 Below is a demonstration of the model classifying 10 random samples from the test set:
 

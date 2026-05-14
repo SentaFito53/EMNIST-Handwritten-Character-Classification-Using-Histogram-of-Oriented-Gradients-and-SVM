@@ -1,7 +1,5 @@
 # **EMNIST-HOG-SVM-Classification**
 This repository demonstrates a machine learning pipeline that uses HOG (Histogram of Oriented Gradients) for feature extraction and SVM (Support Vector Machine) for classification.
-<<<<<<< HEAD
-
 ---
 
 
@@ -18,19 +16,16 @@ For this demonstration, a total of **2,600 samples** are used — with **100 sam
 ---
 
 ## 🧩 Confusion Matrix
-This confusion matrix shows the classification performance on the test set:
+This confusion matrix shows the classification performance on the test and train set:
 
-![-](assets/confusion_matrix.png)
-
+![-](output/cm_train.png)
+![-](output/cm_test.png)
 ---
 
 ## 🧪 Classification Demo
 
 Below is a demonstration of the model classifying 10 random samples from the test set:
 
-![-](assets/result_demo.png)
+![-](output/demo.png)
 
 ---
-
-=======
->>>>>>> 069515dab5ead5f1039a59586f9d4b10d1626dac

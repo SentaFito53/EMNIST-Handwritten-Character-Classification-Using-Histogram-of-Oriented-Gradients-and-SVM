@@ -1,5 +1,6 @@
 # **EMNIST-HOG-SVM-Classification**
 This repository demonstrates a machine learning pipeline that uses HOG (Histogram of Oriented Gradients) for feature extraction and SVM (Support Vector Machine) for classification.
+<<<<<<< HEAD
 
 ---
 
@@ -31,3 +32,5 @@ Below is a demonstration of the model classifying 10 random samples from the tes
 
 ---
 
+=======
+>>>>>>> 069515dab5ead5f1039a59586f9d4b10d1626dac

@@ -1,0 +1,1 @@
+# EMNIST-Handwritten-Character-Classification-Using-Histogram-of-Oriented-Gradients-and-SVM
